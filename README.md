@@ -1,2 +1,2 @@
 # chromatix_imx175
-reverse engeneered from yu yureka 2 and s3 neo
+reverse engeneered from yotaphone 2 and s3 neo
